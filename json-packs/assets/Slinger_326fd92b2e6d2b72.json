@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "326fd92b2e6d2b72",
   "folder": "18b30f608501bf56",
-  "name": "Slinger",
+  "name": "Fundeiro",
   "system": {
-    "requirement": "<p>If you wield a sling…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você empunha uma funda…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When launched from a sling, a simple stone inflicts deadly harm (2 harm). When you @Compendium[foundry-ironsworn.ironswornmoves.ed343c963b08f301]{Enter the Fray} by barraging your foe with sling-bullets, inflict harm on a strong hit.</p>",
+        "description": "<p>Lançada de uma funda, uma simples pedra causa dano letal (2 de dano). Quando você @Compendium[foundry-ironsworn.ironswornmoves.ed343c963b08f301]{Entra no Conflito} bombardeando seu inimigo com projéteis de funda, inflija dano em um sucesso decisivo.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} by launching stones at an advancing foe, you may choose one (before rolling).</p>\n<ul>\n<li>Hold them back: Retain initiative on a weak hit, but inflict only 1 harm.</li>\n<li>Hit them hard: Inflict +1 harm on a hit, but suffer -1 momentum.</li>\n</ul>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpeia} lançando pedras contra um inimigo em avanço, pode escolher uma opção (antes de rolar).</p>\n<ul>\n<li>Mantenha-os à distância: Mantenha a iniciativa em um sucesso parcial, mas inflija apenas 1 de dano.</li>\n<li>Acerte com força: Inflija +1 de dano em um sucesso, mas sofra -1 de momentum.</li>\n</ul>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by preparing stones of a special quality or material, add +1. Then, take +1 momentum or +1 supply on a hit.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Garante uma Vantagem} preparando pedras de qualidade ou material especial, some +1. Em seguida, receba +1 de momentum ou +1 de suprimentos em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4

@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "6926a7946db88fb0",
   "folder": "18b30f608501bf56",
-  "name": "Archer",
+  "name": "Arqueiro",
   "system": {
-    "requirement": "<p>If you wield a bow…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você empunha um arco…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by taking a moment to aim, choose your approach and add +1.</p>\n<ul>\n<li>Trust your instincts: Roll +wits, and take +2 momentum on a strong hit.</li>\n<li>Line up your shot: Roll +edge, and take +1 momentum on a hit.</li>\n</ul>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Garante uma Vantagem} ao dedicar um momento para mirar, escolha sua abordagem e some +1.</p>\n<ul>\n<li>Confie em seus instintos: Role +astúcia e receba +2 de momentum em um sucesso decisivo.</li>\n<li>Alinhe o disparo: Role +agilidade e receba +1 de momentum em um sucesso.</li>\n</ul>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>Once per fight, when you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} or @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash}, you may take extra shots and suffer -1 supply (decide before rolling). When you do, reroll any dice. On a hit, inflict +2 harm and take +1 momentum.</p>",
+        "description": "<p>Uma vez por combate, quando você @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpeia} ou @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confronta}, você pode disparar tiros extras e sofrer -1 suprimento (decida antes de rolar). Quando fizer isso, role novamente quaisquer dados. Em um sucesso, inflija +2 de dano e receba +1 de momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.8d90dd472856be27]{Resupply} by hunting, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.8d90dd472856be27]{Reabastece} caçando, some +1 e receba +1 de momentum em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4

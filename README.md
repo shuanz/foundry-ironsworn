@@ -5,11 +5,9 @@
 
 This is a Foundry VTT implementation of the [**Ironsworn**](https://tomkinpress.com/pages/ironsworn), [**Ironsworn: Delve**](https://tomkinpress.com/pages/ironsworn-delve), [**Ironsworn: Starforged**](https://tomkinpress.com/pages/ironsworn-starforged), and [**Sundered Isles**](https://tomkinpress.com/pages/sundered-isles) games by Shawn Tomkin.
 
-To install it, just search for "ironsworn" in the system-installation UI, or use this URL:
+To install it, just search for "ironsworn" in the system-installation UI, or copy the manifest URL below into the manual installation dialog:
 
-```
-https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json
-```
+- Manifest URL: https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json
 
 For information on how to play a game, check out [the wiki](https://github.com/ben/foundry-ironsworn/wiki/Getting-Started).
 

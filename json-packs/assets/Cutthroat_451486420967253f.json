@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "451486420967253f",
   "folder": "18b30f608501bf56",
-  "name": "Cutthroat",
+  "name": "Degolador",
   "system": {
-    "requirement": "<p>If you wield a dagger or knife…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você empunha uma adaga ou faca…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you are in position to @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} at an unsuspecting foe, choose one (before rolling).</p>\n<ul>\n<li>Add +2 and take +1 momentum on a hit.</li>\n<li>Inflict +2 harm on a hit.</li>\n</ul>",
+        "description": "<p>Quando você estiver em posição de @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpear} um inimigo desavisado, escolha uma opção (antes de rolar).</p>\n<ul>\n<li>Some +2 e receba +1 de momentum em um sucesso.</li>\n<li>Inflija +2 de dano em um sucesso.</li>\n</ul>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compel} someone at the point of your blade, or when you rely on your blade to @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger}, add +1.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compulsiona} alguém à ponta da lâmina, ou quando confia em sua lâmina para @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Enfrentar o Perigo}, some +1.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>Once per fight, when you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} +shadow by performing a feint or misdirection, reroll any dice and take +1 momentum on a hit.</p>",
+        "description": "<p>Uma vez por combate, quando você @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Garante uma Vantagem} +sombra executando uma finta ou distração, role novamente quaisquer dados e receba +1 de momentum em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4

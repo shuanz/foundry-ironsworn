@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "273d07c95cd1c166",
   "folder": "18b30f608501bf56",
-  "name": "Sunderer",
+  "name": "Dilacerador",
   "system": {
-    "requirement": "<p>If you wield an axe…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você empunha um machado…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} or @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} in close quarters, you may suffer -1 momentum and inflict +1 harm on a hit (decide before rolling).</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpeia} ou @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confronta} em curta distância, pode sofrer -1 de momentum e infligir +1 de dano em um sucesso (decida antes de rolar).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you have your axe in hand, and use the promise of violence to @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compel} or @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>Quando você está com o machado em mãos e usa a promessa de violência para @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compulsiona} ou @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Garante uma Vantagem}, some +1 e receba +1 de momentum em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you make a tribute to a fallen foe (formidable or greater) by carving a rune in the haft of your axe, roll +heart. On a strong hit, inflict +1d6 harm (one time only) when you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} or @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash}. On a weak hit, as above, but this death weighs on you; @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} (2 stress).</p>",
+        "description": "<p>Quando você presta tributo a um inimigo caído (formidável ou maior) entalhando uma runa no cabo do seu machado, role +coração. Em um sucesso decisivo, inflija +1d6 de dano (apenas uma vez) ao @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpear} ou @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confrontar}. Em um sucesso parcial, como acima, mas essa morte pesa sobre você; @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Suporte o Estresse} (2 de estresse).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4

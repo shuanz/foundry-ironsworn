@@ -2,6 +2,11 @@
 
 ## Next Release
 
+## 1.25.6
+
+- Added pt-BR translations for classic combat talent assets.
+- Documented the manifest URL for manual installations.
+
 ## 1.25.5
 
 - Fix an issue in Foundry v13 that was preventing some chat message cards from working properly ([#1060](https://github.com/ben/foundry-ironsworn/pull/1060))

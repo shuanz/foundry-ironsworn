@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "423bcfe28d34228b",
   "folder": "18b30f608501bf56",
-  "name": "Long-Arm",
+  "name": "Braço Longo",
   "system": {
-    "requirement": "<p>If you wield a staff…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você empunha um cajado…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>In your hands, a humble staff is a deadly weapon (2 harm). When you instead use it as a simple weapon (1 harm), you may @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} or @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} +edge (instead of iron). If you do, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>Em suas mãos, um simples cajado é uma arma mortal (2 de dano). Quando você o usa como uma arma simples (1 de dano), pode @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpear} ou @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confrontar} +agilidade (em vez de ferro). Se fizer isso, some +1 e receba +1 de momentum em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} +edge using your staff to disarm, trip, shove, or stun your foe, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Garante uma Vantagem} +agilidade usando seu cajado para desarmar, derrubar, empurrar ou atordoar o inimigo, some +1 e receba +1 de momentum em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey} and score a strong hit, or if you accompany an ally who scores a strong hit on that move, your staff provides support and comfort in your travels; take +1 momentum.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Empreende uma Jornada} e obtém um sucesso decisivo, ou se acompanha um aliado que obtém um sucesso decisivo nesse movimento, seu cajado oferece apoio e conforto nas viagens; receba +1 de momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4

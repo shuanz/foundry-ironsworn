@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "2d3070fbde3039ac",
   "folder": "18b30f608501bf56",
-  "name": "Ironclad",
+  "name": "Couraçado",
   "system": {
-    "requirement": "<p>If you wear armor…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você usa armadura…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you equip or adjust your armor, choose one.</p>\n<ul>\n<li>Lightly armored: When you @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm} in a fight, add +1 and take +1 momentum on a hit.</li>\n<li>Geared for war: Mark encumbered. When you @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm} in a fight, add +2 and take +1 momentum on a hit.</li>\n</ul>",
+        "description": "<p>Quando você equipa ou ajusta sua armadura, escolha uma opção.</p>\n<ul>\n<li>Levemente blindado: Quando você @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Suporta o Ferimento} em uma luta, some +1 e receba +1 de momentum em um sucesso.</li>\n<li>Pronto para a guerra: Marque sobrecarregado. Quando você @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Suporta o Ferimento} em uma luta, some +2 e receba +1 de momentum em um sucesso.</li>\n</ul>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} while you are geared for war, add +1.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confronta} enquanto está pronto para a guerra, some +1.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compel} in a situation where strength of arms is a factor, add +2.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compulsiona} em uma situação na qual a força das armas é um fator, some +2.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -39,16 +39,16 @@
       "value": 5,
       "min": 0
     },
-    "exclusiveOptions": [
-      {
-        "name": "Geared for War",
-        "selected": false
-      },
-      {
-        "name": "Lightly Armored",
-        "selected": false
-      }
-    ],
+  "exclusiveOptions": [
+    {
+      "name": "Pronto para a Guerra",
+      "selected": false
+    },
+    {
+      "name": "Levemente Blindado",
+      "selected": false
+    }
+  ],
     "conditions": [],
     "description": ""
   },

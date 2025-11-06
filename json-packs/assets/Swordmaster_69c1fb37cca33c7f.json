@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "69c1fb37cca33c7f",
   "folder": "18b30f608501bf56",
-  "name": "Swordmaster",
+  "name": "Mestre da Espada",
   "system": {
-    "requirement": "<p>If you wield a sword…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você empunha uma espada…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} or @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} and burn momentum to improve your result, inflict +2 harm. If the fight continues, add +1 on your next move.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpeia} ou @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confronta} e queima momentum para melhorar o resultado, inflija +2 de dano. Se a luta continuar, some +1 em seu próximo movimento.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} and score a strong hit, add +1 if you immediately follow with a @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike}.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confronta} e consegue um sucesso decisivo, some +1 se imediatamente seguir com um @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Golpe}.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} by kneeling and grasping your sword’s blade, add +1 and take +1 momentum on a hit. If you let the edge draw blood from your hands, @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm} (1 harm) in exchange for an additional +1 momentum on a hit.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Jura um Voto de Ferro} ajoelhando-se e segurando a lâmina de sua espada, some +1 e receba +1 de momentum em um sucesso. Se permitir que o fio tire sangue de suas mãos, @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Suporte o Ferimento} (1 de dano) em troca de +1 de momentum adicional em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4

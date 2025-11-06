@@ -2,30 +2,30 @@
   "type": "asset",
   "_id": "5e86f277a23f1113",
   "folder": "18b30f608501bf56",
-  "name": "Shield-Bearer",
+  "name": "Porta-Escudo",
   "system": {
-    "requirement": "<p>If you wield a shield…</p>",
-    "category": "Combat Talent",
+    "requirement": "<p>Se você empunha um escudo…</p>",
+    "category": "Talento de Combate",
     "color": null,
     "fields": [],
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} using your shield as cover, add +1. When you @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} in close quarters, take +1 momentum on a strong hit.</p>",
+        "description": "<p>Quando você @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Enfrenta o Perigo} usando seu escudo como cobertura, some +1. Quando você @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Confronta} em curta distância, receba +1 de momentum em um sucesso decisivo.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you paint your shield with a meaningful symbol, envision what you create. Then, if you @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} as you face off against a fearsome foe, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>Quando você pinta seu escudo com um símbolo significativo, visualize o que criou. Então, se você @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Suporta o Estresse} ao encarar um inimigo temível, some +1 e receba +1 de momentum em um sucesso.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When forced to @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm} in a fight, you may instead sacrifice your shield and ignore all harm. If you do, the shield is destroyed. Once per fight, you also take initiative when you sacrifice your shield to avoid harm.</p>",
+        "description": "<p>Quando forçado a @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Suportar o Ferimento} em uma luta, você pode sacrificar seu escudo e ignorar todo o dano. Se fizer isso, o escudo é destruído. Uma vez por combate, você também assume a iniciativa ao sacrificar seu escudo para evitar dano.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
